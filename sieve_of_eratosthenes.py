@@ -1,3 +1,4 @@
+#implementation based on book 'Wprowadznie do informatyki' by Marek Kamiński
 import math
 def sieve():
     end_of_range = int(input("Enter the end of the range:"))
